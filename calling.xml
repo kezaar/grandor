@@ -3,5 +3,8 @@
     <Say>
     Testing Testing Testing.
     </Say>
+      <Dial>
+    <Conference>your-conference-room-name</Conference>
+    </Dial>
     
 </Response>
